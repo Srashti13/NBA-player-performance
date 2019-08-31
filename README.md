@@ -14,11 +14,11 @@ We first scrap the data from "http://www.dougstats.com/index2.html" & "http://ww
 The Visualization shows the trend of performance of the player with respect to their salaries for 15 years.
 Examples:
 
-![1](pics/visualization1)
+![1](pics/visualization1.png)
 
-![2](pics/visualization2)
+![2](pics/visualization2.png)
 
-![3](pics/visualization3)
+![3](pics/visualization3.png)
 
 ### Result:
 *Question* – “Do the top NBA basketball players underperform or overperform relative to their peers when comparing annual salaries to statistical game performance?”  
